@@ -1,7 +1,7 @@
 
 import './App.css';
 import Todo from './components/todo/Todo';
-
+import store from './components/store';
 
 function App() {
   return (
