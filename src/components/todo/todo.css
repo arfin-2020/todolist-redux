@@ -4,3 +4,14 @@
     padding: 5px;
     cursor: pointer;
 }
+.showItem{
+    justify-content:space-between;
+   
+}
+.eachItem{
+    display: flex;
+    margin: 20px;
+    justify-content:space-evenly;
+    width: 100%;
+   
+}
